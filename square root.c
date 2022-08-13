@@ -3,6 +3,7 @@
 
 int main()
 {
+// A program to get square root of a number 
 double num,root;
     printf("Enter a number:");
     scanf("%lf",&num);
